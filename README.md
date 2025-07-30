@@ -2,7 +2,7 @@
 
 This repository contains three MATLAB projects demonstrating fundamental concepts in probability theory and statistical analysis. The projects were completed as part of a Probability Engineering course under the supervision of PhD. A Zaimbashi at Shahid Bahonar University of Kerman.
 
-**Author:** Alireza Sotoodeh (Student ID: 401412056)
+**Author:** Alireza Sotoodeh 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
